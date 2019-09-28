@@ -1,0 +1,19 @@
+{
+  "name": "ol-geotiff",
+  "version": "0.0.0",
+  "description": "Display GeoTIFFs in OpenLayers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoTIFF/ol-geotiff.git"
+  },
+  "author": "Daniel J. Dufour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeoTIFF/ol-geotiff/issues"
+  },
+  "homepage": "https://github.com/GeoTIFF/ol-geotiff#readme"
+}
