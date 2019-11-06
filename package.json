@@ -10,10 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/GeoTIFF/ol-geotiff.git"
   },
-  "author": "Daniel J. Dufour",
-  "license": "MIT",
+  "author": "Daniel J. Dufour & Victoria Mak",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/GeoTIFF/ol-geotiff/issues"
   },
-  "homepage": "https://github.com/GeoTIFF/ol-geotiff#readme"
+  "homepage": "https://github.com/GeoTIFF/ol-geotiff#readme",
+  "keywords": [
+    "openlayers",
+    "cog",
+    "geotiff",
+    "gis",
+    "raster"
+  ],
+  "private": true
 }
